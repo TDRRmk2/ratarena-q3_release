@@ -1,8 +1,8 @@
-[submodule "ratoa_gamecode"]
+[submodule "ratq3_gamecode"]
 	path = ratoa_gamecode
-	url = https://github.com/rdntcntrl/ratoa_gamecode.git
+	url = https://github.com/TDRRmk2/ratq3_gamecode.git
 	branch = ratoa
-[submodule "ratoa_assets"]
+[submodule "ratq3_assets"]
 	path = ratoa_assets
-	url = https://github.com/rdntcntrl/ratoa_assets.git
+	url = https://github.com/TDRRmk2/ratq3_assets.git
 	branch = master
